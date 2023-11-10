@@ -33,12 +33,12 @@ O ambiente é um grid 4x4 com 16 locais, cada um podendo estar limpo (false) ou 
 Com estas funcionalidades, o Sistema do Agente Aspirador proporciona uma abordagem eficaz para a limpeza de ambientes dinâmicos, garantindo que o local seja mantido limpo e a bolsa de sujeira seja gerenciada adequadamente.
 
 
-# Como Iniciar a Aplicação NuxtJs 3
-## Clone este repositório
-~$ git clone
-## Acesse a pasta do projeto
+# Como Iniciar a Aplicação
+**Clone este repositório**
+-$ git clone
+**Acesse a pasta do projeto**
 cd nome_da_pasta
-## Instale as dependências
-~$ npm install
-## Execute a aplicação em modo de desenvolvimento
-$ npm run dev
+**Instale as dependências**
+-$ npm install
+**Execute a aplicação em modo de desenvolvimento**
+-$ npm run dev
