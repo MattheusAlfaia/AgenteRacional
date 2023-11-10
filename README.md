@@ -34,11 +34,23 @@ Com estas funcionalidades, o Sistema do Agente Aspirador proporciona uma abordag
 
 
 # Como Iniciar a Aplicação
-**Clone este repositório**
--$ git clone
-**Acesse a pasta do projeto**
-cd nome_da_pasta
-**Instale as dependências**
--$ npm install
-**Execute a aplicação em modo de desenvolvimento**
--$ npm run dev
+
+**Clone este repositório:**
+```bash
+$ git clone [URL_do_repositório]
+```
+
+**Acesse a pasta do projeto:**
+```bash
+$ cd nome_da_pasta
+```
+
+**Instale as dependências:**
+```bash
+$ npm install
+```
+
+**Execute a aplicação em modo de desenvolvimento:**
+```bash
+$ npm run dev
+```
