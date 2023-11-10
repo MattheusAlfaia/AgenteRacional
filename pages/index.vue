@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h1>Trabalho de Agente Inteligente</h1>
+                <h1>Trabalho de Agente Racional</h1>
                 <p>Professor: {{ professor.name }}</p>
                 <p>Disciplina: {{ disciplina.name }}</p>
                 <p>Curso: {{ curso.name }}</p>
