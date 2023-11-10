@@ -1,5 +1,13 @@
 # Sistema do Agente Aspirador com Interface Gráfica
 
+~~~
+TOPICOS ESPECIAL II, SI 8°
+César Augusto Pinheiro Piro-2023532
+Flávio Sólon Araújo Dutra - 2029407
+Leandro dos Santos Costa - 2019008
+Mattheus Cruz Alfaia - 2021261
+~~~
+
 Este é um sistema do agente aspirador com uma interface gráfica que visa proporcionar uma limpeza eficiente em um ambiente dinâmico. O agente aspirador opera em um grid 4x4 (16 locais) onde cada local pode estar limpo ou sujo. A eficiência da limpeza é medida pela quantidade total de sujeira aspirada pelo agente, com o desempenho ideal sendo a manutenção do ambiente completamente limpo.
 
 ## Características do Sistema
